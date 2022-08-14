@@ -1,4 +1,9 @@
-#IDE
+#IDE- VSCode
+.vscode/*
+!.vscode/setting.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 #img
 *.img
@@ -17,4 +22,6 @@ img/
 #log
 
 *.log
+
+
 password.txt
