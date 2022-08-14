@@ -3,6 +3,6 @@
 ## Alt Bilgi
 
 dfdsfsfdsaf
-sdfdsfdsfgagfsfghfjmköljhgfdsdzxfghyerthgfb
+asdfdsfdsfdsfdsf
 
 [lorem ipsum](http://google.com)
